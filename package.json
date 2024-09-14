@@ -1,0 +1,15 @@
+{
+  "name": "render-bin",
+  "version": "1.0.0",
+  "description": "nder",
+  "main": "app.js",
+  "author": "devnamednick",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
